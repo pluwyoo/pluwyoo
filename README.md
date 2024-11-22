@@ -1,12 +1,22 @@
-- 👋 Hi, I’m @pluwyoo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Olá, sou o Braian! 👋
 
-<!---
-pluwyoo/pluwyoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📚 Atualmente, estou cursando **Desenvolvimento de Sistemas** e estou sempre em busca de novos desafios para aprimorar minhas habilidades em programação.
+
+### 🛠️ Tecnologias que estou aprendendo:
+- 🚀 **JavaScript** e **TypeScript**
+- 🖥️ **HTML** & **CSS**
+- 🧑‍💻 **Python**
+- 🌱 **Node.js**, **React** e **SQL**
+
+### 🔥 Meu Projeto:
+- **MemóriasTDS** 💾 - Um projeto que estou desenvolvendo para **guardar e gerenciar memórias** de maneira simples e eficiente. Confira o repositório! [MemóriasTDS](https://github.com/typrBraian/MemoriasTDS)
+
+### 📈 Estatísticas do GitHub:
+![Stats](https://github-readme-stats.vercel.app/api?username=typrBraian&show_icons=true&hide_title=true&count_private=true&theme=radical)
+
+### 💬 Vamos conversar!
+
+- 🧑‍💻 **LinkedIn:** [Braian no LinkedIn](https://www.linkedin.com/in/braian-jorge-lisboa-373997290)
+- 🦸‍♂️ **Instagram:** [@szplutoo](https://www.instagram.com/szplutoo/)
+
+### 🧩 Estou em constante aprendizado e adoro colaborar em projetos open-source!
