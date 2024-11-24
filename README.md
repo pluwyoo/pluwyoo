@@ -12,7 +12,7 @@
 - **MemóriasTDS** 💾 - Um projeto que estou desenvolvendo para **guardar e gerenciar memórias** de maneira simples e eficiente. Confira o repositório! [MemóriasTDS](https://github.com/typrBraian/MemoriasTDS)
 
 ### 📈 Estatísticas do GitHub:
-![Stats](https://github-readme-stats.vercel.app/api?username=typrBraian&show_icons=true&hide_title=true&count_private=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=pluwyoo&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
 ### 💬 Vamos conversar!
 
